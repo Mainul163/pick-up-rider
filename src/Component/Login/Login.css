@@ -1,0 +1,11 @@
+.loginStyle{
+    border:1px solid red;
+    width: 50%;
+    padding: 20px;
+}
+.inputStyle{
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #CCC;
+    color: #555;
+}
